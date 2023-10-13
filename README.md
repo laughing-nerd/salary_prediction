@@ -1,4 +1,4 @@
-# salary_prediction_go
+# salary_prediction
 Salaray prediction thingy using Go (AND NOT PYTHON)
 
 # Output
